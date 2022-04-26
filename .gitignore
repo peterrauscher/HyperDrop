@@ -1,0 +1,4 @@
+node_modules
+uploads
+*.code-workspace
+package-lock.json
